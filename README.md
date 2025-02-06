@@ -57,13 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoelWalek&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoelWalek&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelWalek&layout=compact&theme=tokyonight)  
-
----
-
 ## 🚀 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/joel-walek-3ba759337/)  
 📧 [Email](mailto:m.joel.walek@gmail.com)  
