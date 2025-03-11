@@ -49,5 +49,6 @@
 ---
 
 ## 🚀 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/joel-walek-3ba759337/)  
+💼 [Microsoft Teams](https://teams.live.com/l/invite/FBAYOb0HnbjwwTuQQM)  
 📧 [Email](mailto:m.joel.walek@gmail.com)  
+📞 [Phone](+13028570166)  
