@@ -1,8 +1,8 @@
 # 📌 Joel Walek  
 **🚀 Node Full Stack Developer**  
 📍 Fort Worth, Texas  
-📧 [m.joel.walek@gmail.com](mailto:m.joel.walek@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/joel-walek-3ba759337/)  
+📧 [m.joel.walek@gmail.com](mailto:joel.m.walek@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/joel-walek-058a4a140)  
 
 ---
 
@@ -50,5 +50,5 @@
 
 ## 🚀 Let's Connect!  
 💼 [Microsoft Teams](https://teams.live.com/l/invite/FBAYOb0HnbjwwTuQQM)  
-📧 [Email](mailto:m.joel.walek@gmail.com)  
+📧 [Email](mailto:joel.m.walek@gmail.com)  
 📞 [Phone](+13028570166)  
