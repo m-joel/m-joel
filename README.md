@@ -1,5 +1,5 @@
 # 📌 Joel Walek  
-**🚀 Node Full Stack Developer**  
+**🚀 Full Stack Developer**  
 📍 Fort Worth, Texas  
 📧 [m.joel.walek@gmail.com](mailto:joel.m.walek@gmail.com)  
 
