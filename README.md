@@ -1,7 +1,8 @@
 # 📌 Joel Walek  
-**🚀 Full Stack Developer**  
+**🚀 Senior Android Developer**  
 📍 Fort Worth, Texas  
-📧 [m.joel.walek@gmail.com](mailto:joel.m.walek@gmail.com)  
+📧 [jmatwalek@gmail.com](mailto:jmatwalek@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/joelmatwalek) • [GitHub](https://github.com/m-joel)
 
 ---
 
@@ -23,20 +24,38 @@
 
 ## 💼 Work Experience  
 
-### **Software Engineer @ Apex Capital Factoring** *(Nov 2023 – Oct 2024)*  
-- 🏗 Developed a browser-based app using React & TypeScript, boosting engagement by **20%**  
-- 🚀 Optimized REST API calls, reducing load times by **15%**  
-- 🤝 Collaborated with teams to deliver project milestones efficiently  
+### **Senior Software Engineer @ Ribbon Health** *(Remote | Nov 2023 – Dec 2024)*  
+- Led performance and architectural upgrades for Android-based healthcare platforms.  
+- Delivered scalable APIs with Kotlin and REST.  
+- Implemented CI/CD with Gradle and Azure pipelines.  
+- Maintained 99.9% uptime with real-time monitoring and logs.  
+- Collaborated cross-functionally on mobile planning and QA.  
 
-### **Senior Software Developer @ Softworld** *(Apr 2021 – Sep 2023)*  
-- 🎯 Developed large-scale web apps with React & AWS, increasing satisfaction by **30%**  
-- 🔍 Optimized database queries, reducing downtime by **40%**  
-- 🧠 Implemented ML algorithms, boosting user engagement by **25%**  
+### **Full-Stack Developer @ Tebra** *(Remote | Apr 2021 – Sep 2023)*  
+- Built core Android features using MVVM, Jetpack Compose, and LiveData.  
+- Integrated secure APIs and 3rd-party SDKs for notifications and scheduling.  
+- Migrated legacy code to navigation components for modern flow.  
 
-### **Application Developer @ Xpressdocs** *(Apr 2018 – Apr 2021)*  
-- 📈 Improved web apps with React & SQL, increasing user engagement by **20%**  
-- 📱 Implemented responsive designs, increasing mobile traffic by **15%**  
-- 🌟 Achieved **100% client satisfaction** through effective technical solutions  
+### **Application Developer @ Granicus** *(Hybrid | Apr 2018 – Apr 2021)*  
+- Built municipal Android apps for emergency notifications.  
+- Applied offline caching and modular architecture.  
+- Reduced app load time by 40% with profiling and optimization.  
+
+---
+
+## 📱 Projects  
+
+### **Emergency Voice AI Assistant**  
+- Real-time Android voice app using STT/TTS and emotion recognition.  
+- Integrated OpenAI and Whisper with Jetpack Compose UI.  
+
+### **Rocket Recovery Android Platform**  
+- Hospital logistics app with GPS, scanning, and status workflows.  
+- Built with MVVM and modular components for scalability.  
+
+### **City Services Dashboard**  
+- Android app for municipal alerts using Firebase Cloud Messaging.  
+- Delivered real-time, accessible notifications to citizens.  
 
 ---
 
@@ -47,7 +66,14 @@
 
 ---
 
-## 🚀 Let's Connect!  
-💼 [Microsoft Teams](https://teams.live.com/l/invite/FBAYOb0HnbjwwTuQQM)  
-📧 [Email](mailto:joel.m.walek@gmail.com)  
-📞 [Phone](+14699024698)  
+## 📚 Education  
+**B.S. in Computer Science**  
+University of Texas at Dallas – 2017  
+
+---
+
+## 📞 Let’s Connect!  
+📧 [jmatwalek@gmail.com](mailto:jmatwalek@gmail.com)  
+📞 [+1 469 902 4698](tel:+14699024698)  
+🔗 [LinkedIn](https://linkedin.com/in/joelmatwalek)  
+🔗 [GitHub](https://github.com/m-joel)
