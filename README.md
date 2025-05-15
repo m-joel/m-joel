@@ -1,7 +1,7 @@
 # 📌 Joel Walek  
 **🚀 Senior Android Developer**  
 📍 Fort Worth, Texas  
-📧 [jmatwalek@gmail.com](mailto:joelwalek1028@gmail.com)  
+📧 [joelwalek1028@gmail.com](mailto:joelwalek1028@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/joelmatwalek) • [GitHub](https://github.com/m-joel)
 
 ---
