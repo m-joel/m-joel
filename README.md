@@ -73,7 +73,7 @@ University of Texas at Dallas – 2017
 ---
 
 ## 📞 Let’s Connect!  
-📧 [jmatwalek@gmail.com](mailto:jmatwalek@gmail.com)  
+📧 [joelwalek1028@gmail.com](mailto:joelwalek1028@gmail.com)  
 📞 [+1 469 902 4698](tel:+14699024698)  
 🔗 [LinkedIn](https://linkedin.com/in/joelmatwalek)  
 🔗 [GitHub](https://github.com/m-joel)
